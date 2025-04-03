@@ -1,0 +1,131 @@
+## 리눅스 명령어
+
+파일 및 디렉토리 관리
+ls: 디렉토리 목록을 출력
+
+cd: 디렉토리 변경
+예시: cd /home/user
+
+pwd: 현재 작업 중인 디렉토리 경로 출력
+예시: pwd
+
+cp: 파일 복사
+예시: cp source.txt destination.txt
+
+mv: 파일 또는 디렉토리 이동 / 이름 변경
+예시: mv oldname.txt newname.txt
+
+rm: 파일 삭제
+예시: rm file.txt (옵션 -r을 사용하면 디렉토리도 삭제 가능)
+
+mkdir: 디렉토리 생성
+예시: mkdir new_folder
+
+rmdir: 빈 디렉토리 삭제
+예시: rmdir empty_folder
+
+touch: 파일 생성 또는 수정 시간 변경
+예시: touch newfile.txt
+
+## 파일 내용 확인
+cat: 파일 내용 출력
+예시: cat file.txt
+
+more: 파일 내용 페이지별 출력 (스크롤 가능)
+예시: more file.txt
+
+less: more와 유사하지만, 더 많은 기능 제공
+예시: less file.txt
+
+head: 파일의 처음 몇 줄 출력
+예시: head -n 10 file.txt (처음 10줄 출력)
+
+tail: 파일의 마지막 몇 줄 출력
+예시: tail -n 10 file.txt (마지막 10줄 출력)
+
+## 파일 검색
+find: 파일 및 디렉토리 검색
+예시: find /home -name "*.txt"
+
+grep: 파일 내 특정 문자열 검색
+예시: grep "search_term" file.txt
+
+## 프로세스 관리
+1. ps: 현재 실행 중인 프로세스 목록 확인
+예시: ps aux
+
+2. top: 실시간으로 시스템의 프로세스와 자원 사용 현황 보기
+예시: top
+
+3. kill: 프로세스 종료
+예시: kill 1234
+
+4. killall: 프로세스 이름으로 종료
+예시: killall firefox
+
+## 시스템 정보 확인
+1. df: 디스크 공간 사용량 확인
+예시: df -h
+
+2. du: 디렉토리의 디스크 사용량 확인
+예시: du -sh /home/user
+
+3. free: 메모리 사용량 확인
+예시: free -h
+
+4. uptime: 시스템 부팅 이후 경과 시간 및 부하 확인
+예시: uptime
+
+5. uname: 시스템 정보 확인
+예시: uname -a
+
+## 네트워크 관리
+ping: 네트워크 연결 상태 확인
+예시: ping google.com
+
+ifconfig (또는 ip): 네트워크 인터페이스 설정 확인
+예시: ifconfig, ipconfig
+
+netstat: 네트워크 연결 상태 확인
+예시: netstat -tuln
+
+## 자주 사용되는 리눅스 명령어
+1. ls
+디렉토리 내 파일 목록을 출력할 때 사용합니다.
+옵션 예시: ls -l (상세 리스트), ls -a (숨김 파일 포함)
+
+2. cd
+디렉토리를 이동할 때 사용합니다.
+예시: cd /home (이동)
+
+3. cp
+파일을 복사할 때 사용합니다.
+예시: cp source.txt destination.txt (복사)
+
+4. rm
+파일을 삭제할 때 사용합니다.
+예시: rm -r folder_name (디렉토리 삭제)
+
+5. ps
+현재 실행 중인 프로세스를 확인할 때 사용합니다.
+예시: ps aux
+
+6. top
+실시간으로 시스템의 상태를 확인할 때 사용합니다.
+예시: top
+
+7. kill
+프로세스를 종료할 때 사용합니다.
+예시: kill 1234
+
+8. df
+디스크 사용량을 확인할 때 사용합니다.
+예시: df -h
+
+9. free
+메모리 사용량을 확인할 때 사용합니다.
+예시: free -h
+
+10. ping
+네트워크 연결을 확인할 때 사용합니다.
+예시: ping google.com
