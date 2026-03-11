@@ -30,18 +30,10 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-## NLP (Natural Language Processing)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-323330?style=for-the-badge&logo=python&logoColor=white)
-![Gensim](https://img.shields.io/badge/Gensim-FF9E00?style=for-the-badge&logo=python&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![Tokenizers](https://img.shields.io/badge/Tokenizers-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
-![Word2Vec](https://img.shields.io/badge/Word2Vec-008080?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## AI를 활용한 다양한 기술
 ChatGPT, gamma, Felo.ai 👉 https://band.us/band/97542809/post/15
