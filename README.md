@@ -48,5 +48,5 @@ https://github.com/pocky75/2025robot
   ChatGPT, gamma, Felo.ai 👉 https://band.us/band/97542809/post/15<br>
   invedio, suno.ai 👉 https://band.us/band/97542809/post/24
 
-## github 팀 프로젝트 시 연결방법
+## Github 팀 프로젝트 시 연결방법
 https://github.com/Utility-Maker/test/blob/main/README.md
