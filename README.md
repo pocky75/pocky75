@@ -32,6 +32,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
+## 2025 ROBOT응용 SW 개발자 과정
+https://github.com/pocky75/2025robot
+
+## 처음 만들어본 벽돌깨기게임
+https://github.com/pocky75/-pocky75.git
+
 ## AI를 활용한 다양한 기술
 ChatGPT, gamma, Felo.ai 👉 https://band.us/band/97542809/post/15
 
