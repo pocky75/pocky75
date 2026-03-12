@@ -37,13 +37,13 @@ https://github.com/pocky75/2025robot
 
 ## 2025년 SW전문가 양성과정 프로젝트
 1. AI Model을 활용한 프로그램
-- Teachable Machine을 이용한 실시간 객체 인식 프로그램 : https://github.com/pocky75/Teachable-Machine
-- 처음 만들어본 벽돌깨기게임 : https://github.com/pocky75/-pocky75.git
-- YOLOv5를 이용한 웹앱 프로그램 : https://github.com/pocky75/webapp_yolo
-- pyQTGUI를 이용한 CSV파일 저장 프로그램 : https://github.com/pocky75/pyQTGUI
-- QT_designer를 이용해 만들어둔 프로그램을 yolov8을 사용하여 실시간 객체 인식이 되도록 만든 프로그램 : https://github.com/pocky75/pyqtguiYOLOv8
-- webApp 간단한 이름 전화번호 제작 : https://github.com/pocky75/webApp , https://github.com/pocky75/webappCam (확장버전)
+  - Teachable Machine을 이용한 실시간 객체 인식 프로그램 : https://github.com/pocky75/Teachable-Machine
+  - 처음 만들어본 벽돌깨기게임 : https://github.com/pocky75/-pocky75.git
+  - YOLOv5를 이용한 웹앱 프로그램 : https://github.com/pocky75/webapp_yolo
+  - pyQTGUI를 이용한 CSV파일 저장 프로그램 : https://github.com/pocky75/pyQTGUI
+  - QT_designer를 이용해 만들어둔 프로그램을 yolov8을 사용하여 실시간 객체 인식이 되도록 만든 프로그램 : https://github.com/pocky75/pyqtguiYOLOv8
+  - webApp 간단한 이름 전화번호 제작 : https://github.com/pocky75/webApp , https://github.com/pocky75/webappCam (확장버전)
 
 ## AI를 활용한 다양한 기술
-ChatGPT, gamma, Felo.ai 👉 https://band.us/band/97542809/post/15<br>
-invedio, suno.ai 👉 https://band.us/band/97542809/post/24
+  ChatGPT, gamma, Felo.ai 👉 https://band.us/band/97542809/post/15<br>
+  invedio, suno.ai 👉 https://band.us/band/97542809/post/24
