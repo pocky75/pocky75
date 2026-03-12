@@ -43,8 +43,8 @@ https://github.com/pocky75/2025robot
   - pyQTGUI를 이용한 CSV파일 저장 프로그램 : https://github.com/pocky75/pyQTGUI
   - QT_designer를 이용해 만들어둔 프로그램을 yolov8을 사용하여 실시간 객체 인식이 되도록 만든 프로그램 : https://github.com/pocky75/pyqtguiYOLOv8
   - webApp 간단한 이름 전화번호 제작 :
-        https://github.com/pocky75/webApp
-        https://github.com/pocky75/webappCam (확장버전)
+        •https://github.com/pocky75/webApp
+        •https://github.com/pocky75/webappCam (확장버전)
 
 ## AI를 활용한 다양한 기술
   ChatGPT, gamma, Felo.ai 👉 https://band.us/band/97542809/post/15<br>
