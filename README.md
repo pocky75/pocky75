@@ -35,11 +35,10 @@
 ## 2025 ROBOT응용 SW 개발자 과정
 https://github.com/pocky75/2025robot
 
-## Teachable Machine을 이용한 실시간 객체 인식 프로그램
-https://github.com/pocky75/Teachable-Machine
-
-## 처음 만들어본 벽돌깨기게임
-https://github.com/pocky75/-pocky75.git
+## 2025년 SW전문가 양성과정 프로젝트
+1. AI Model을 활용한 프로그램
+- Teachable Machine을 이용한 실시간 객체 인식 프로그램 : https://github.com/pocky75/Teachable-Machine
+- 처음 만들어본 벽돌깨기게임 :https://github.com/pocky75/-pocky75.git
 
 ## YOLOv5를 이용한 웹앱 프로그램
 https://github.com/pocky75/webapp_yolo
