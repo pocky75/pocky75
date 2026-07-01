@@ -52,4 +52,4 @@ https://github.com/pocky75/2025robot
 https://github.com/Utility-Maker/test/blob/main/README.md
 
 ## 졸업 프로젝트
-  - 
+  - NLP기반 반려로봇 시스템 : https://github.com/pocky75/NLP-Humanoid
