@@ -45,7 +45,6 @@ https://github.com/pocky75/2025robot
   - webApp 간단한 이름 전화번호 제작 : https://github.com/pocky75/webApp , https://github.com/pocky75/webappCam (확장버전)
 
 2. RFID 기반 자율주행 물류로봇 (AGV) 2025 WCRC 우수상 수상
-
    https://github.com/pocky75/AGV-Robot
    
 ## AI를 활용한 다양한 기술
